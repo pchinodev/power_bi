@@ -13,3 +13,7 @@
 ## Star Scheme - Universidade
 
 ![alt text](https://github.com/pchinodev/power_bi/blob/main/Diagrama%20Dimensional%20-%20Star%20Scheme/diagrama%20dimensional.png "Star Scheme - Universidade")
+
+## Star Schema com Power BI com DAX
+
+![alt text](https://github.com/pchinodev/power_bi/blob/main/Modelagem%20e%20Transformação%20com%20DAX/Star_Scheme_PB_DAX.png "Star Schema com Power BI com DAX")
