@@ -17,3 +17,7 @@
 ## Star Schema com Power BI com DAX
 
 ![alt text](https://github.com/pchinodev/power_bi/blob/main/Modelagem%20e%20Transformação%20com%20DAX/Star_Scheme_PB_DAX.png "Star Schema com Power BI com DAX")
+
+## Dashboard Sales with UX
+
+![alt text](https://github.com/pchinodev/power_bi/blob/main/Dashboard%20Vendas%20UX/dashboard_ux.png "Dashboard Sales with UX")
