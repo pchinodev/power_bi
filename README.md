@@ -21,3 +21,9 @@
 ## Dashboard Sales with UX
 
 ![alt text](https://github.com/pchinodev/power_bi/blob/main/Dashboard%20Vendas%20UX/dashboard_ux.png "Dashboard Sales with UX")
+
+## Dashboard Sales with Data Analytics
+
+View on the web <https://app.powerbi.com/view?r=eyJrIjoiNjQxMzE2MzktMTRmMy00NzAzLTkwZjUtNGQ0NmI4N2U1NzFhIiwidCI6IjFlYmE0NDNmLTIzZTUtNDUzNC05MGQxLTA5NzZhYWJlODZhYyIsImMiOjR9>
+
+![alt text](https://github.com/pchinodev/power_bi/blob/main/Dashboard%20Data%20Analytics/dashboard_da.png "Dashboard Sales with Data Analytics")
